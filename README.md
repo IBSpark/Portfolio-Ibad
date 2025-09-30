@@ -1,4 +1,4 @@
-# 🖥️ Aniqa Khan’s Personal Portfolio Website
+# 🖥️ Ibad Personal Portfolio Website
 
 A modern and fully responsive portfolio website built with **HTML**, **CSS** and **JavaScript**. This site highlights my skills, projects and contact information with smooth navigation and an elegant user interface.
 
